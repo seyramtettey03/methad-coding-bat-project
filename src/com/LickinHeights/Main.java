@@ -11,9 +11,9 @@ public class Main {
         int a = 7;
         int b = 9;
         System.out.println(a = b);
-
-
-
+        int c = add(a,b);
+        int d = add(c,a);
+        System.out.println(d);
 
     }
         public static void printGreeding(String noun){

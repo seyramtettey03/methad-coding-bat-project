@@ -8,9 +8,13 @@ public class Main {
        System.out.println("hello university");
        System.out.println("moon");
 
+        int a = 7;
+        int b = 9;
+        System.out.println(a = b);
 
 
-       
+
+
     }
 
 

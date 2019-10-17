@@ -16,6 +16,15 @@ public class Main {
 
 
     }
+        public static void printGreeding(String noun){
+
+        System.out.println("hello " +noun) ;
+        }
+
+        public static int add(int firstnumber, int secondnumber ){
+
+        return firstnumber + secondnumber;
+        }
 
 
 

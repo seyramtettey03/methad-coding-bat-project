@@ -25,10 +25,13 @@ public class Main {
 
         return firstnumber + secondnumber;
         }
+        public static void makenumber600(int number) {
+            System.out.println("before number changes:   " + number);
+            number = 600;
+            System.out.println("after number changes: +number");
+            return;
 
 
-
-
-
+    }
 
 }
